@@ -1,0 +1,9 @@
+streamlit
+folium
+streamlit-folium
+geopy
+pandas
+numpy
+scikit-learn
+joblib
+streamlit-js-eval
